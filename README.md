@@ -1,2 +1,6 @@
 # hello-world
-Just a demo Repository
+
+Hi everyone
+
+I am a software developer in java, javasript and react native apps
+
